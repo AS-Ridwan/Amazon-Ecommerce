@@ -1,0 +1,66 @@
+.country_select {
+  display: none;
+}
+
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  /* margin-right: -15px;
+  margin-left: -15px; */
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+.col {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.billing_details .contact_form .form-group {
+  margin-bottom: 20px;
+}
+
+.contact_form .form-group {
+  margin-bottom: 10px;
+}
+.p_star {
+  display: inline-block;
+  position: relative;
+}
+.form-group {
+  margin-bottom: 1rem;
+}
+/* ====== */
+
+.order_box {
+  background: #f1f1fa;
+  padding: 30px;
+  margin: 20px;
+}
+.creat_account {
+  margin-bottom: 30px;
+}
+.btn-proceed {
+  width: 100%;
+  background-color: #e8910e;
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: #ffffff;
+  font-weight: 600;
+  outline: none;
+  border: none;
+}
+.list li {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.middle {
+  font-weight: 700;
+}

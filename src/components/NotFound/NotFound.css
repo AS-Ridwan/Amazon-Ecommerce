@@ -1,0 +1,23 @@
+.notfound-heading {
+  font-size: 100px;
+}
+
+.notfound-btn {
+  background-color: #198519;
+}
+.notfound-btn a {
+  color: #ffff;
+  text-decoration: none;
+}
+
+@media only screen and (min-width: 768px) {
+  img {
+    max-width: 500px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  img {
+    max-width: 700px;
+  }
+}
